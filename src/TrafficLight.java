@@ -3,7 +3,7 @@ public class TrafficLight {
         String colorTrafficLight1 = "green";
         String colorTrafficLight2 = "red";
         String colorTrafficLight3 = "yellow";
-        System.out.println(lighting(colorTrafficLight1)); //+ " " + lighting(colorTrafficLight2) + " " + lighting(colorTrafficLight3));
+        System.out.println(lighting(colorTrafficLight2)); //+ " " + lighting(colorTrafficLight2) + " " + lighting(colorTrafficLight3));
     }
 
     public static String lighting(String colorTrafficLight) {
